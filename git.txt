@@ -1,0 +1,27 @@
+
+git init -- to initialize
+get init - -bare ---
+git config - -global user.name "dgd"
+git config - -global user.email "dgd@dgd"
+git status
+git add   test.txt-->>to request git to upload files
+
+git commit -m "message here"  -->> -m stands for message
+git remote add <alias> <repo url>
+
+git remote -v
+ git remote rm <alias>
+git pull <alias> <branch> -->> server ma vako branch mero laptop ma aau..
+
+git push - u <alias> <branch> // if working on others project -u is req.
+else : git push origin master
+git pull
+git clone 
+git rm file.txt  then commit with message  and push--to delete
+ git checkout branchname
+
+git merge {branchname where we worked}
+ 
+
+
+
